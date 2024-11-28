@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Faculty+Glyphic&display=swap');
+
+.succes-main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.succes-img{
+    margin-bottom: 50px;
+    width: 150px;
+    height: 150px;
+}
+
+.succes-text{
+    font-family: "Faculty Glyphic", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
